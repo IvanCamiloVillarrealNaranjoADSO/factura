@@ -1,0 +1,236 @@
+main{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+    width: 700px;
+    border: solid #000;
+
+}
+.encabezado1{
+    position: absolute;
+    background-image: url(Recurso\ 3.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    width: 700px;
+    height: 200px;
+}
+.logo{
+    position: absolute;
+    background-image: url(Recurso\ 2.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 100px;
+    margin-left: 70px;
+    margin-top: 50px;
+   
+
+}
+.flecha{
+    position: absolute;
+    background-image: url(Recurso\ 1.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 100px;
+    top: 0;
+    margin-top: 200px;
+    margin-right: 50px;
+    margin-left:50px;
+}
+.invoice{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size: 60px;
+    right: 40px;
+    color: #003e5f;
+}
+.caja1{
+    position: absolute;
+    width: 370px;
+    height: px;
+    margin-top: 180px;
+    right: 0px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color:rgba(155,220,242,255);
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:#4c4a4b;
+}
+
+.circulo1{
+    position: absolute;
+    background-image: url(Recurso\ 10.png) ;
+    background-repeat: no-repeat;
+    top: 250px;
+    width: 100px;
+    height: 100px;
+}
+.caja2{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 230px;
+    left: 60px;
+    font-size: 7px;
+    color:#929091;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Negro{
+    color:#5c5a5b;
+ }
+ .tabla{
+    width: 600px;
+    height: 40px;
+    top: 400px;
+    position: absolute;
+    left: 0;
+    margin: auto;
+    right: 0;
+    background-color:#003e5f ;
+    border-radius: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+table{
+    text-align: center;
+    position: absolute;
+    width: 600px;
+    top: 7px;
+    height: 350px;
+}
+thead{
+    color: #fff;
+}
+.tabla td{
+    border-bottom: 2px solid rgba(191,190,190,255);
+}
+.caja3{
+    position: absolute;
+    height: 100px;
+    top: 780px;
+    left: 60px;
+    background-color: rgb(255, 252, 252);
+    font-size: 7px;
+    color:#929091;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Terms{
+    color:#5c5a5b
+}
+.caja4{
+    background-color: #ffffff;
+    position: absolute;
+    display: inline-block;
+    right: 40px;
+    bottom: 90px;
+    height: 96px;
+    width: 200px;
+    top: 770px;
+}
+.total1{
+    font-size: 14px;
+    position: absolute;
+    color:#929091;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 20px;
+}
+.total2{
+    font-size: 14px;
+    position: absolute;
+    color:#929091;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 140px;
+}
+.p2 {
+    border-bottom: 2px solid rgba(191,190,190,255);
+    width: 160px;
+}
+.p3{
+    color: #000;
+}
+.p6{
+    color: #000;
+}
+
+.lineas{
+    position: absolute;
+    background-image: url(Recurso\ 9.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    top: 330px;
+    right: 50px;
+}
+.informacion{
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    background-color: blue;
+    right: 0;
+    top: 630px;
+    left: 550px;
+    z-index: 10;
+}
+
+.circulo2{
+    position: absolute;
+    background-image: url(Recurso\ 8.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    right: 40px;
+    left: 65px;
+    top: 650px;
+}
+.Caja5{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    top: 930px;
+    left: 60px;
+    background-color: rgb(255, 255, 255);
+    color:#929091;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.Director1{
+    border-bottom: 2px solid rgba(191,190,190,255);
+    width: 160px;
+    height: 0px;
+    color: #000;
+    font-weight: bold;
+}
+.Caja6{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left: 537px;
+    top: 1020px;
+    background-color: rgba(0, 0, 255, 0);
+    font-size: 7px;
+    color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 30;
+    
+}
+
+.footer{
+    position: absolute;
+    background-image: url(image-removebg-preview.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 800px;
+    left: 87px;
+    bottom: 0;
+}
+
